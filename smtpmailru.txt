@@ -1,0 +1,5 @@
+imap.mail.ru
+pop.mail.ru
+smtp.mail.ru
+mail.ru
+e.mail.ru
